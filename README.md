@@ -16,6 +16,9 @@ I am a Biostatistician currently finalizing my **Master’s degree in Mathematic
 
 ### 📊 Key Projects
 
+#### **[Cancer Pathway Risk Analysis (GWAS & Meta-Analysis)](https://github.com/TonyLI1126/cancer-genomics-analysis) | R**
+* Multi-level genomic analysis of cancer risk using **GWAS, Inverse-Variance Meta-Analysis, and VEGAS** gene-based testing on 3,700+ SNPs
+
 #### **[Alzheimer's Penetrance Modeling](https://github.com/TonyLI1126/alzheimer-penetrance-modeling) | R**
 * Developed a custom estimation engine via **conditional likelihood** to assess **SORL1** variants while adjusting for **APOE** stratification.
 
