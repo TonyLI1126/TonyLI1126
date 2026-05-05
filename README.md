@@ -16,6 +16,11 @@ I am a Biostatistician currently finalizing my **Master’s degree in Mathematic
 
 ### 📊 Key Projects
 
+#### **[Alzheimer's Penetrance Modeling](https://github.com/TonyLI1126/alzheimer-penetrance-modeling) | R**
+* Developed a custom estimation engine via **conditional likelihood** to assess **SORL1** variants while adjusting for **APOE** stratification.
+
+#### **[Taipei Real Estate Analysis](https://github.com/TonyLI1126/taipei-real-estate-analysis) | SAS & R**
+* Applied **Log-Linear Regression** and **Clustering** to identify urban price drivers.
 To be updated...
 
 ---
